@@ -1,0 +1,12 @@
+{
+  "name": "realm-test",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Jongla Oy",
+  "main": "./index.js",
+  "dependencies": {
+    "realm": "^0.14.3",
+    "request": "^2.75.0"
+  }
+}
